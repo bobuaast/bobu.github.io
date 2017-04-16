@@ -4,11 +4,13 @@
 
 ## Description
 
-男女問わず、初期メンバーもほぼ初心者から始めています！興味あり！くらいでも参加OK。週末、最寄りのクライミングジムにて活動中！
+男女問わず、初期メンバーもほぼ初心者から始めています！興味あり！くらいでも参加OK。
+☆週末、最寄りのクライミングジムにて活動中！☆
 
 ***DEMO:***
 
-//![Demo](https://image-url.gif)
+>現在作成中です。
+<!--![Demo](https://image-url.gif)-->
 
 ## Features
 
@@ -28,7 +30,7 @@ For more information, see `group line`.
 
 ## Installation
 
-    $ git clone https://github.com/bobu.github.io
+    $ git clone https://github.com/bobuaast/bobu.github.io.git
 
 ## Anything Else
 
