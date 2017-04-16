@@ -1,5 +1,5 @@
 # bobu.github.io
-![Badge Status](https://img.shields.io/badge/%E3%83%9C%E9%83%A8-%E7%94%B3%E8%AB%8B%E4%B8%AD-yellow.svg)
+![Badge Status](https://img.shields.io/badge/%E3%83%9C%E9%83%A8-%E7%94%B3%E8%AB%8B%E4%B8%AD-yellow.svg)  
 ボルダリング同好会「ボ部」紹介ページ。
 
 ## ページの概要
