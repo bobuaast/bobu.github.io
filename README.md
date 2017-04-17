@@ -20,7 +20,7 @@ For more information, see `group line`.
 
 ## 依存関係
 
-- reveal.js 
+- slides.com ...   
 
 ## 使用方法
 
