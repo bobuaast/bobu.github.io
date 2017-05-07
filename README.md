@@ -1,6 +1,6 @@
 # bobu.github.io
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-![Badge Status](https://img.shields.io/badge/%E3%83%9C%E9%83%A8-%E7%94%B3%E8%AB%8B%E4%B8%AD-yellow.svg)
+![Badge Status](https://img.shields.io/badge/%E3%83%9C%E9%83%A8-%E6%B4%BB%E5%8B%95%E4%B8%AD-brightgreen.svg)
 ボルダリング同好会「ボ部」紹介ページ。
 
 ## ページの概要
@@ -12,6 +12,18 @@
 
 >現在作成中です。
 <!--![Demo](https://image-url.gif)-->
+
+## これまでの活動概要
+
+
+-2017年4月15日 非公式・ボルダリング活動第一回
+-2017年4月17日 ボルダリング同好会 「ボ部」承認！
+
+## 次回活動予定
+
+-2017年6月初旬 場所「PlayMountain! 名古屋IC店」
+-2017年4月22日以降 非公式個人練習活動実施中
+-2017年4月15日 非公式・ボルダリング活動第一回
 
 ## 特徴
 
