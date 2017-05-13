@@ -48,6 +48,7 @@ For more information, see `group line`.
 ## そのほか
 
 このページのコントリビューター（開発仲間）も絶賛募集中！
+2017年5月14日 LINE Notifyとの連携開始！グループLINEボ部にて開発状況を把握！
 
 ## サイト作成者について☆
 
