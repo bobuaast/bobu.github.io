@@ -1,3 +1,4 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja"
+title = "‚­‚é‚è‚ñ‚Ï"
 baseURL = "http://example.org/"
+theme = "hugo_theme_robust"
