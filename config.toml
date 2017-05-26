@@ -1,4 +1,32 @@
-languageCode = "ja"
-title = "‚­‚é‚è‚ñ‚Ï"
-baseURL = "http://example.org/"
-theme = "hugo_theme_robust"
+#
+# config.toml
+#
+
+DefaultContentLanguage = "ja"             # ¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+languageCode = "ja-JP"                    # ¿¿¿¿¿¿¿¿¿¿¿¿
+
+baseurl = "https://bobu.github.io/"   # ¿¿¿¿¿¿¿¿¿¿URL
+title = "¿¿¿¿¿¿¿¿¿¿¿¿¿¿"                # ¿¿¿¿¿¿¿¿¿¿¿
+theme = "hugo-phlat-theme"                # ¿¿¿¿¿¿¿¿¿¿¿¿
+
+[permalinks]
+post = "/:year/:month/:slug/"           # post ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+page = "/:slug/"                        # page ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+
+[taxonomies]
+tag = "tags"                            # ¿¿¿¿¿¿¿
+category = "categories"                 # ¿¿¿¿¿¿¿¿¿
+
+[params]
+keywords = ["programming", "developer"] # ¿¿¿¿¿¿ keywords ¿¿¿¿¿¿¿¿¿¿¿¿¿¿ (meta keywords)
+description = "boldaring team blog"           # ¿¿¿¿¿¿ description ¿¿¿¿¿¿¿¿¿¿¿¿¿¿ (meta description)
+
+[[menu.header]]
+name = "Home"
+weight = 1
+url = "/"
+
+[[menu.header]]
+name = "About"
+weight = 2
+url = "/about/"
