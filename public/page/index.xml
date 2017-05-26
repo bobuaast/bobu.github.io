@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ��������������</title>
+    <link>https://bobu.github.io/page/index.xml</link>
+    <description>Recent content in Pages on ��������������</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 26 May 2017 09:52:32 +0900</lastBuildDate>
+    <atom:link href="https://bobu.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://bobu.github.io/about/</link>
+      <pubDate>Fri, 26 May 2017 09:52:32 +0900</pubDate>
+      
+      <guid>https://bobu.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;サンプルページをつくってみたよ&#34;&gt;サンプルページをつくってみたよ&lt;/h2&gt;
+
+&lt;p&gt;やっほい（＾ｖ＾）&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
