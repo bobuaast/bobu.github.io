@@ -8,7 +8,7 @@ machine:
 
 dependencies:
   pre:
-          #    - go get -v github.com/nraboy/hugo-phlat-theme
+    - go get -v github.com/spf13/hugo
     - git config --global user.name "bobuaast"
     - git config --global user.email "bobu.aast@gmail.com"
 
