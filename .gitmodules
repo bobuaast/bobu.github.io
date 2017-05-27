@@ -1,6 +1,6 @@
 [submodule "themes/hugo-phlat-theme"]
 	path = themes/hugo-phlat-theme
 	url = https://github.com/nraboy/hugo-phlat-theme
-[submodule "public"]
-	path = public
+[submodule "docs"]
+	path = docs
 	url = https://github.com/bobuaast/bobu.github.io.git
