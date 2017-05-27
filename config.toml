@@ -4,9 +4,10 @@
 
 DefaultContentLanguage = "ja"             # ¿¿¿¿¿¿¿¿¿¿¿¿¿¿
 languageCode = "ja-JP"                    # ¿¿¿¿¿¿¿¿¿¿¿¿
+publishDir = "docs"
 
 baseurl = "https://bobu.github.io/"   # ¿¿¿¿¿¿¿¿¿¿URL
-title = "¿¿¿¿¿¿¿¿¿¿¿¿¿¿"                # ¿¿¿¿¿¿¿¿¿¿¿
+title = "boldering club / ¿¿"
 theme = "hugo-phlat-theme"                # ¿¿¿¿¿¿¿¿¿¿¿¿
 
 [permalinks]
