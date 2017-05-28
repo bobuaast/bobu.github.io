@@ -1,0 +1,11 @@
++++
+categories = ["sports","develop"]
+tags = ["boldering","club"]
+author = "shinji abe"
+description = ""
+draft = true
+date = "2017-05-28T23:21:46+09:00"
+title = "活動していない週_20170528"
+
++++
+
