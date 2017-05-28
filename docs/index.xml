@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>boldering club / ��</title>
-    <link>https://bobu.github.io/index.xml</link>
+    <link>https://bobu.github.io/</link>
     <description>Recent content on boldering club / ��</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Fri, 26 May 2017 09:52:40 +0900</lastBuildDate>
-    <atom:link href="https://bobu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://bobu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>sample01</title>
@@ -15,12 +17,7 @@
       <pubDate>Fri, 26 May 2017 09:52:40 +0900</pubDate>
       
       <guid>https://bobu.github.io/2017/05/sample01/</guid>
-      <description>
-
-&lt;h2 id=&#34;今日はどきどきしています&#34;&gt;今日はどきどきしています。&lt;/h2&gt;
-
-&lt;p&gt;雨でヤスデが大量発生しました。&lt;/p&gt;
-</description>
+      <description>今日はどきどきしています。 雨でヤスデが大量発生しました。</description>
     </item>
     
     <item>
@@ -29,12 +26,7 @@
       <pubDate>Fri, 26 May 2017 09:52:32 +0900</pubDate>
       
       <guid>https://bobu.github.io/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;サンプルページをつくってみたよ&#34;&gt;サンプルページをつくってみたよ&lt;/h2&gt;
-
-&lt;p&gt;やっほい（＾ｖ＾）&lt;/p&gt;
-</description>
+      <description>サンプルページをつくってみたよ やっほい（＾ｖ＾）</description>
     </item>
     
   </channel>
